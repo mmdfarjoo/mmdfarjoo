@@ -4,4 +4,4 @@
 <a href="https://github.com/mmdfarjoo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdfarjoo" />
 </a>
-&theme=radical
+
