@@ -6,9 +6,8 @@
 
 🏠 I’m currently living at iran,gilan. <br/>
 👨‍💻 I’m currently working as a beckend developer.<br/>
-🔭 I’m currently working on my pet projects.<br/>
+🔭 I'm currently learning.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
-☕️ I’m water. <br/>
 ⚡ Bla bla bla...
 
 
