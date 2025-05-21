@@ -5,7 +5,7 @@
 ### Hi there, I'm [MMD FARJOO](https://github.com/mmdfarjoo) 👋
 
 🏠 I’m currently living at iran,gilan. <br/>
-👨‍💻 I’m currently working as a frontend developer.<br/>
+👨‍💻 I’m currently working as a python.<br/>
 🔭 I'm currently learning.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
 ⚡ Bla bla bla...
